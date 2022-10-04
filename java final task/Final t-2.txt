@@ -1,0 +1,14 @@
+class gopal {
+    public static void main(String[] args) {
+        int gopal=1000;
+        float one=100.09f;
+        
+        byte two=126;
+        
+        
+        System.out.println("gopal");
+            System.out.println("one");
+                System.out.println("two");
+        
+    }
+}

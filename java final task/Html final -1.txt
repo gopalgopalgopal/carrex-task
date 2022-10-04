@@ -1,0 +1,34 @@
+<!DOCTYPE HTML>
+<HTML>
+
+<head>
+    <title> Google doc </title>
+</head>
+
+<body>
+    <form>
+        first name
+        <input type="text" firstname=""><br><br>
+        second name
+        <input type="text" secondname=""><br><br>
+        gender
+        <input type="radio" name="gender">male
+        <input type="radio" name="gender">female
+        <input type="radio" name="gender">others<br><br>
+        phone number
+        <input type="number" phone number=""> <br> <br>
+        qualification
+        <input type="text" qualification=""><br><br>
+        district
+        <input type="text" district=""><br><br>
+         state
+        <input type="text" qualification=""><br><br>
+        country
+        <input type="text" qualification=""><br><br>
+        pincode
+        <input type="number" pincode=""> <br><br>
+         <center><input type="submit" submit=""></center>
+    </form>
+</body>
+
+</html>

@@ -1,0 +1,91 @@
+<DOCTYPE html>
+    <html>
+
+    <head>
+        <title>
+            My Resume
+        </title>
+    </head>
+
+    <body><br><br>
+        <div class="bgcolor">
+            <h1>Resume</h1>
+            <img src="Myphoto.jpeg" height="200" width="130">
+            <style>
+                h1 {
+                    text-align: center;
+                    background-color: #f9d3b8;
+                    font-size: xx-large;
+                }
+            </style>
+
+            <h3>CHUNDURI GOPAL</h3>
+            <p>Email:Chundurigopal555@gmail.com<br>
+                phone:8179393606</p>
+
+
+            <h2>Personal Info</h2>
+            <hr>
+
+            <ul>
+                <li>Date of Birth: 29/10/1999</li>
+                <li>Gender : Male</li>
+                <li>Marital Status:Single</li>
+                <li>Nationality:Indian</li>
+                <li>languages known:Telugu,English,Hindi</li>
+            </ul>
+            <h2>Carrier Objective</h2>
+            <hr>
+            <li> Obtain a Responsible positionin in an organization with the best capabilities,Skills and Knowledge
+
+                <h2>Educational Qualification</h2>
+                <hr>
+                <ul>
+                    <h4>College/University</h4>
+                    <p>2017-2020</p>
+                    <li>Andhra Loyola Vijyawada</li>
+                    <li>BSC Electronics technology</li>
+
+
+                    <h4> College/University</h4>
+                    <p>2015-2017</p>
+                    <li>Sri Chaitanya jr college Vijayawada</li>
+                    <li> Intermediate (MPC) </li>
+
+
+                    <h4>School</h4>
+                    <p>2016</P>
+                    <li>ST Joesph English Medium</li>
+                    <li>Percentage:8.2</li>
+                </ul>
+
+                <h2>Key Skills</h2>
+                <hr>
+                <ul>
+                    <li>HTML</li>
+                    <li>CSS</li>
+                    <li>Java Script</li>
+                    <li>Java</li>
+                    <li>SQL</li>
+                </ul>
+
+
+
+                <h2>Strength</h4>
+                    <hr>
+                    <ul>
+                        <li>Hard Working</li>
+                        <li>Time Punctuality</li>
+                        <li>Ability to Learn</li>
+                        <li>Problem Solving</li>
+                    </ul>
+
+
+                    <h4>Declaration:
+                    </h4>
+                    <p> I declare the above information is True to the best of My Knowledge </P>
+        </div>
+
+    </body>
+
+    </html>

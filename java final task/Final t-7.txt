@@ -1,0 +1,6 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        int gopal=2*3;
+        System.out.println("The Area is:" + gopal);
+    }
+}

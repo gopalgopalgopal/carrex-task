@@ -1,0 +1,10 @@
+class gopal {
+    public static void main(String[] args) {
+    int gopal=333;
+    double great=9.0123456;
+    char number2= 'c';
+        System.out.println(gopal);
+        System.out.println(great);
+        System.out.println(number2);
+    }
+}

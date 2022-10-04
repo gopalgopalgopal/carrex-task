@@ -1,0 +1,31 @@
+import java.util.Scanner;
+
+class gopal
+
+{
+
+public static void main(String args[])
+
+{
+
+Scanner sc = new Scanner(System.in);
+
+System.out.print("Enter the length: ");
+
+double l=sc.nextDouble();
+
+System.out.println("Enter the breadth: ");
+
+double b=sc.nextDouble();
+
+if(l==b)
+
+System.out.println("Its a Square");
+
+else
+
+System.out.println("Its Not a Square");
+
+}
+
+}

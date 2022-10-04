@@ -1,0 +1,10 @@
+class HelloWorld {
+    public static void main(String[] args) {
+        float gopal=100.235f;
+        double gear=gopal;
+        int  gap=(int)gear;
+         System.out.println("double :" +gear );
+          System.out.println("integer :" + gap);
+         
+    }
+}
